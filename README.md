@@ -21,7 +21,7 @@ docker-compose up
 
 #### Requirements
 
-* You need mongodb installed and running on your computer. or alternatively you can use docker
+* You need mongodb installed and running on your computer. <!--or alternatively you can use docker-->
 
 ```bash
 git clone https://github.com/cbatuic/MongoDB_WebApp_Simple_CRUD
