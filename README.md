@@ -15,9 +15,9 @@ This is a Multi page application using nodejs mongodb and vuejs using vite
 * You need mongodb installed and running on your computer. Also, see [MongoDB_Compass_Setup](./task-manager-frontend/MongoDB_Compass_Setup.pdf) for your additional reference. 
 
 ```bash
+$ git clone https://github.com/cbatuic/MongoDB_WebApp_Simple_CRUD$
+
 # Terminal 1
-git clone https://github.com/cbatuic/MongoDB_WebApp_Simple_CRUD
-cd express-mongodb-crud
 $ cd task-manager
 $ npm install
 $ node server.js
